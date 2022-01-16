@@ -1,0 +1,8 @@
+[package]
+name = "chip8"
+version = "0.0.1"
+authors = ["codetyphon <codetyphon@outlook.com>"]
+
+[dependencies]
+minifb = "0.13"
+rand = "0.3"
